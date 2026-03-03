@@ -686,7 +686,7 @@ For issues, questions, or contributions:
 | 🐛 **Bug Reports** | [Create an Issue](../../issues) |
 | 💡 **Feature Requests** | [Create an Issue](../../issues) |
 | 💬 **Discussions** | [GitHub Discussions](../../discussions) |
-| 📧 **Email** | [your-email@example.com] |
+| 📧 **Email** | [magdumom.ml@gmail.com] |
 
 ### Quick Help
 
