@@ -709,8 +709,8 @@ docker-compose down && docker-compose up -d --build
 
 ⭐ **Star this repository if you find it helpful!**
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue?logo=react)](frontend/README.md)
-[![Backend](https://img.shields.io/badge/Backend-Repo-orange?logo=spring-boot)](backend/README.md)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue?logo=react)]([frontend/README.md](https://github.com/ommagdum/hms-frontend/blob/main/README.md))
+[![Backend](https://img.shields.io/badge/Backend-Repo-orange?logo=spring-boot)]([backend/README.md](https://github.com/ommagdum/hms/blob/main/README.md))
 
 </div>
 ```
